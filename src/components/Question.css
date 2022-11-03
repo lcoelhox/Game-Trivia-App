@@ -1,0 +1,30 @@
+button {
+  background-color: white;
+  border: 3px solid rgb(165, 165, 165);
+  border-radius: 5px;
+  color: rgb(102, 102, 102);
+  cursor: pointer;
+  font-weight: 900;
+  margin: 0 5px;
+  padding: 5px;
+  transition: all 0.1s ease-in-out;
+}
+
+button:hover {
+  background-color: rgb(165, 165, 165);
+  border-radius: 5px;
+  color: white;
+}
+
+.correct {
+  background-color: rgb(6, 240, 15);
+  border: 3px solid rgb(6, 240, 15);
+  color: white;
+}
+
+.wrong {
+  background-color: red;
+  border: 3px solid red;
+  color: white;
+}
+
