@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do projeto game de Trivia!
+# Boas-vindas ao repositório do projeto game de Trivia! :video_game::game_die:
 
 ## Sobre
 Aplicação de um projeto de game trivia, no qual o usuario participa de um jogo de perguntas e respostas.
